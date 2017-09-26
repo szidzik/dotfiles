@@ -1,0 +1,4 @@
+To Do:
+
+Need to review keybindings.  After install, numberpad now no longer works with arch linux (4.12.14-1-ck-skylake).
+May be problem with custom kernel.
